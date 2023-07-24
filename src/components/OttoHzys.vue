@@ -163,24 +163,10 @@
                       下载音频仅支持下载效果通道前的音频。
                     </div>
                   </li>
-                  <li>
-                    <div>
-                      感谢光临并使用本项目。如果对项目有其他构想或建议或Bug也欢迎到Github链接下方提Issue，合理的建议会及时采纳。
-                    </div>
-                  </li>
                 </ul>
               </el-space>
             </el-card>
             <el-divider/>
-            <el-descriptions title="作品信息"
-                             border
-                             :column="2">
-              <el-descriptions-item label="Github仓库">
-                <el-link href="https://github.com/HaHaWTH/otto-v-print" type="primary">
-                  HanaYabuki/otto-hzys
-                </el-link>
-              </el-descriptions-item>
-            </el-descriptions>
           </el-col>
         </el-row>
       </el-main>
